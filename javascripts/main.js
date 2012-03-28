@@ -17,8 +17,7 @@
   });
 
   require(['reveal', 'orbit', 'customforms', 'placeholder', 'tooltips', 'app'], function() {
-    console.log("Dependencies are loaded");
-    return alert("Good");
+    return console.log("Dependencies are loaded");
   });
 
 }).call(this);
