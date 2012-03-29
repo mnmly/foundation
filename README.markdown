@@ -1,3 +1,7 @@
+### Additions
+I added some boilerplate of [require.js](http://requirejs.org) and front-end development utilities([ CoffeeScript ](http://coffeescript.org) + [Stylus](http://learnboost.github.com/stylus/) + [Livereload](https://github.com/mnmly/node-livereload)) for personal use :)
+
+
 Welcome to Foundation
 =====================
 
