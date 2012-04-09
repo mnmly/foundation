@@ -17,6 +17,7 @@ require.config
     json:        'libs/rjs-plugins/json'
 
   priority:[
+    'modernizr'
     'underscore'
     'jquery'
     'backbone'
